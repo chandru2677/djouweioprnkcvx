@@ -14,7 +14,7 @@ body {
   justify-content: center;
   font-weight: bold;
   align-items: center;
-  background-color: #0f172a;
+  background-color: #0a0f1b;
   margin-left: 5%;
   margin-right: 5%;
   text-align: justify;
@@ -62,7 +62,7 @@ h4 {
   margin-left: -5px;
   border-width: 5px;
   border-style: solid;
-  border-color: rgb(45, 74, 201) transparent transparent transparent;
+  border-color: #0a0f1b transparent transparent transparent;
 }
 
 .tooltip:hover .tooltiptext {
@@ -70,7 +70,7 @@ h4 {
   opacity: 1;
 }
 input {
-  background-color: #0f172a;
+  background-color: #0a0f1b;
   color: #c41eee;
   border: 0px;
   font-size: 13pt;

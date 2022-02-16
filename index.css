@@ -6,24 +6,23 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  padding: 10px;
+  padding: 5px;
   justify-content: center;
   align-items: center;
-  background-color: #0f172a;
+  background-color: #0a0f1b;
 }
 h1 {
-  color: #ffffff;
-  font-variant: small-caps;
+  color: #ffff;
+  font-size: extra-large;
   font-family: "Poppins", Sans-serif;
-  font-weight: 700;
   text-transform: uppercase;
 }
 h4 {
   color: #ffffff;
   font-weight: bold;
   text-align: justify;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: 7%;
+  margin-right: 7%;
 }
 h5 {
   color: #ffffff;
@@ -43,14 +42,15 @@ h5 {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  padding: 10px 0;
+  padding: 0;
 }
+
 .container .card {
   position: relative;
   width: 200px;
   height: 200px;
   box-shadow: inset 5px 5px 5px rgba(0, 0, 0, 0.5),
-    inset -5px -5px 5px rgba(255, 255, 255, 0.5),
+    inset -5px -5px 5px rgba(180, 178, 178, 0.5),
     5px 5px 5px rgba(0, 0, 0, 0.05), -5px -5px 5px rgba(255, 255, 255, 0.05);
   border-radius: 15px;
   margin: 10px;
@@ -105,4 +105,7 @@ h5 {
 }
 .container .card:hover .box .content a {
   background-color: #ff569f;
+}
+.container .card:hover .content p {
+  color: #fafafa;
 }
