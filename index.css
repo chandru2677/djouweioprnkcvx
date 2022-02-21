@@ -17,6 +17,7 @@ h1 {
   font-size: extra-large;
   font-family: "Poppins", Sans-serif;
   text-transform: uppercase;
+  letter-spacing: 2px;
 }
 h4 {
   color: #ffffff;
