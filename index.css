@@ -5,6 +5,11 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
+@media screen and (min-width: 480px) and (max-width: 960px) {
+  #header {
+      display: none;
+  }
+}
 body {
   padding: 5px;
   justify-content: center;
