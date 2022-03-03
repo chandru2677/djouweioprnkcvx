@@ -10,3 +10,4 @@ function outFunc() {
   var tooltip = document.getElementById("myTooltip");
   tooltip.innerHTML = "Copy to clipboard";
 }
+document.addEventListener("contextmenu", (event) => event.preventDefault());
