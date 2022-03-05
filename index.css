@@ -21,7 +21,10 @@ body {
   justify-content: center;
   align-items: center;
   background-color: #0a0f1b;
-  margin-bottom: 15px;
+  max-width: 1500px;
+  text-align: center;
+  width: 100%;
+  margin: 0 auto;
 }
 h1 {
   color: #f542e0;
