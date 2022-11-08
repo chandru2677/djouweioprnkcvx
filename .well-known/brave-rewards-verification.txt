@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: cryptocurrencyburn.com
+Token: f5ca10eff5dcb2d242e37fb66188ee898ca845157100984dfab082318fb158b0
